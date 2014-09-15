@@ -20,19 +20,16 @@ body{
 }
 
 #cover{
-	background-image:url('cover1.jpg') ;
+	background-image:url('cover1.jpg');
+	height: 660px;
     background-color: #cccccc;
     background-size: 100% auto;
     background-repeat: no-repeat;
-    height: 670px;
-    margin:auto;
+    background-position: left top;
   -ms-background-position-x: center;
   -ms-background-position-y: top;
-  background-position: center bottom;
 
 }
-#filler{
-	height: 50px;
-}
+
 
 
