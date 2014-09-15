@@ -1,5 +1,6 @@
 body{
 	background-color: #0B615E;
+	background-color: #A4A4A4;
 }
 
 #menu{
@@ -19,12 +20,19 @@ body{
 }
 
 #cover{
-	background-image:url('cover.jpg');
+	background-image:url('cover1.jpg') ;
     background-color: #cccccc;
     background-size: 100% auto;
-    height: 660px;
+    background-repeat: no-repeat;
+    height: 670px;
+    margin:auto;
   -ms-background-position-x: center;
   -ms-background-position-y: top;
   background-position: center bottom;
 
 }
+#filler{
+	height: 50px;
+}
+
+
