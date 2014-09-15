@@ -17,3 +17,14 @@ body{
 .info{
 	padding:30px;
 }
+
+#cover{
+	background-image:url('cover.jpg');
+    background-color: #cccccc;
+    background-size: 100% auto;
+    height: 660px;
+  -ms-background-position-x: center;
+  -ms-background-position-y: top;
+  background-position: center bottom;
+
+}
