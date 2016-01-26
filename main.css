@@ -39,7 +39,11 @@ body{
 .header-text{
 	color:white;
 }
-
+.purple{
+	background-color:purple;
+	border-radius: 5px;
+	height: 300px;
+}
 .info{
 	padding-bottom:10px;
 	padding-top: 0px;
@@ -59,15 +63,18 @@ body{
 
 }
 #work{
+	padding-bottom: 400px;
 	background-color: #3A9AD9;
 	color:#354458;
 }
 #ec{
+	padding-bottom: 400px;
 	background-color: #29ABA4;
 	color:#354458;
 }
 
 #contact{
+	padding-bottom: 400px;
 	background-color:#E9E0D6;
 	color: #354458;
 	border-color: #D1F2A5;
@@ -83,6 +90,7 @@ text-align: center;
 
 #about{
 	background-color: #354458;
+	padding-bottom: 300px;
 }
 
 
