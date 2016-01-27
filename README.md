@@ -1,4 +1,7 @@
-karthik-shanmugam.github.io
-===========================
+## Projects
++ test1
++ test2
++ test3
 
-My personal website
+## Contact
+[email](mailto:karthik@karthiks.me) [resume](resume.pdf) [github](https://github.com/karthik-shanmugam)
